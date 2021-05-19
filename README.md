@@ -9,4 +9,7 @@ Using the LSTM autoencoder to reconstruct the error on the test data.
 
 If the reconstruction error for the test data is above the threshold, we label the data point as an anomaly.
 
+Dataset[Johnson & Johnson (JNJ) historical stock price time series data ](https://finance.yahoo.com/quote/JNJ/history?p=JNJ)
+
+
 
