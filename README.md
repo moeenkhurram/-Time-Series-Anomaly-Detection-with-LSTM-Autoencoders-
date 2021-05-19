@@ -8,3 +8,5 @@ Train an LSTM autoencoder on the Johnson & Johnson’s stock price data from 198
 Using the LSTM autoencoder to reconstruct the error on the test data.
 
 If the reconstruction error for the test data is above the threshold, we label the data point as an anomaly.
+
+
