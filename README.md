@@ -11,5 +11,8 @@ The following steps will be followed to detect anomalies in Johnson & Johnson st
 
 Dataset: [Johnson & Johnson (JNJ) historical stock price time series data ](https://finance.yahoo.com/quote/JNJ/history?p=JNJ)
 
+![alt text](https://github.com/moeenkhurram/Time-Series-Anomaly-Detection-with-LSTM-Autoencoders/blob/main/anomlies.png?raw=true)
+
+
 
 
